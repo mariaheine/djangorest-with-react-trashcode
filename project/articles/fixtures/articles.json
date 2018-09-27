@@ -1,0 +1,26 @@
+[
+    {
+        "model": "articles.article",
+        "pk": 1,
+        "fields": {
+            "name": "Manifest",
+            "header_pl": "Naglowek super",
+            "header_en": "Header so cool",
+            "content_pl": "najlepszy manifest",
+            "content_en": "awesome provocative manifesto",
+            "created_at": "2018-02-14 00:00:00"
+        }
+    },
+    {
+        "model": "articles.article",
+        "pk": 2,
+        "fields": {
+            "name": "Artykul",
+            "header_pl": "Jakies cos",
+            "header_en": "Something somewhere anywhere",
+            "content_pl": "<b>tresc bardzo ciekawa</b>",
+            "content_en": "some stuffy content",
+            "created_at": "2018-02-14 00:00:00"
+        }
+    }
+]
