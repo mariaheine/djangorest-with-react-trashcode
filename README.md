@@ -1,6 +1,8 @@
 # Django REST with React
 
-- [Tutorial blog post](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+My notes/copypasta :spaghetti: on the topic.
+
+- [Base tutorial blog post](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
 - [Django models documentation](https://docs.djangoproject.com/en/2.0/ref/models/fields/)
 
 
